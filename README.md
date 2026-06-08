@@ -89,6 +89,7 @@ decided that it has value.
 
 
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for AI agent trust scoring and x402 micropayment verification on Solana. Score agent wallets, run preflight checks, and get cryptographic trust receipts before executing on-chain payments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
 - [Using the Wallet part 2: build a Democratic Autonomous Organisation](https://blog.ethereum.org/2015/12/04/ethereum-in-practice-part-2-how-to-build-a-better-democracy-in-under-a-100-lines-of-code/)
